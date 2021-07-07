@@ -21,7 +21,7 @@ global.$ = {
 
     paths: {
       html: 'src/*.html',
-      css: 'src/assets/less/style.less',
+      css: 'src/assets/less/*.less',
       js: 'src/assets/js/*.js',
       images: {
         img: 'src/assets/img/',
